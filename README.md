@@ -1,1 +1,1 @@
-ini adalah repository buat oop WEBII semester 3
+ini adalah repository untuk pengumpulan tugas OOP WEBII semester 3
